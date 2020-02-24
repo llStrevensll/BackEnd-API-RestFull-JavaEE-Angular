@@ -1,0 +1,6 @@
+co\com\strevens\web\CorsFilter.class
+co\com\strevens\web\JAXRSActivator.class
+co\com\strevens\servicio\PersonaServiceRS.class
+co\com\strevens\data\PersonaDaoImpl.class
+co\com\strevens\data\PersonaDao.class
+co\com\strevens\domain\Persona.class
